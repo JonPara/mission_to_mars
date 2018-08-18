@@ -3,7 +3,7 @@
 ![mission_to_mars](Images/mission_to_mars.jpg)
 
 
-In this project, I have built a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines of how I have completed this project:
+In this project, I have built flask application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. The following outlines of how I have completed this project:
 
 ## Scraping
 
